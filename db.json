@@ -1,5 +1,6 @@
 {
-	"cities": [{
+	"cities": {
+		"alexandria": {
 			"id": 1,
 			"name": "Alexandria",
 			"people": [{
@@ -11,7 +12,7 @@
 					"bio": "Coached Vevay, Fayetteville and Shawswick High SchoolsA 2-year starter for Bedford High School team leader, as well as class president in 1936 3-year letter winner at Purdue Boiler- makers won 2 Big 10 titles in '38 and '40 captained '40 team as a senior All-American played against Harlem Globetrotters in the Chicago Herald-American's all-star contest, viewed by 22,000 fans in Chicago Stadium played professionally with Firestone before entering service in '41."
 				},
 				{
-					"id": 11,
+					"id": 12,
 					"name": "Jean Ann Bowers 2",
 					"high_school": "Alexandria 1956",
 					"college": "Alexandria College2",
@@ -19,7 +20,7 @@
 					"bio": "Coached Vevay, Fayetteville and Shawswick High SchoolsA 2-year starter for Bedford High School team leader, as well as class president in 1936 3-year letter winner at Purdue Boiler- makers won 2 Big 10 titles in '38 and '40 captained '40 team as a senior All-American played against Harlem Globetrotters in the Chicago Herald-American's all-star contest, viewed by 22,000 fans in Chicago Stadium played professionally with Firestone before entering service in '41."
 				},
 				{
-					"id": 11,
+					"id": 13,
 					"name": "Jean Ann Bowers 3",
 					"high_school": "Alexandria3 1956",
 					"college": "Alexandria College3",
@@ -27,7 +28,7 @@
 					"bio": "Coached Vevay, Fayetteville and Shawswick High SchoolsA 2-year starter for Bedford High School team leader, as well as class president in 1936 3-year letter winner at Purdue Boiler- makers won 2 Big 10 titles in '38 and '40 captained '40 team as a senior All-American played against Harlem Globetrotters in the Chicago Herald-American's all-star contest, viewed by 22,000 fans in Chicago Stadium played professionally with Firestone before entering service in '41."
 				},
 				{
-					"id": 11,
+					"id": 14,
 					"name": "Jean Ann Bowers 4",
 					"high_school": "Alexandria2 1956",
 					"college": "Alexandria College",
@@ -56,8 +57,8 @@
 				}
 			]
 		},
-		{
-			"id": 1,
+		"Bedford": {
+			"id": 2,
 			"name": "Bedford",
 			"people": [{
 					"id": 11,
@@ -68,7 +69,7 @@
 					"bio": "Coached Vevay, Fayetteville and Shawswick High SchoolsA 2-year starter for Bedford High School team leader, as well as class president in 1936 3-year letter winner at Purdue Boiler- makers won 2 Big 10 titles in '38 and '40 captained '40 team as a senior All-American played against Harlem Globetrotters in the Chicago Herald-American's all-star contest, viewed by 22,000 fans in Chicago Stadium played professionally with Firestone before entering service in '41."
 				},
 				{
-					"id": 11,
+					"id": 21,
 					"name": "Jean Ann Bowers 2",
 					"high_school": "Alexandria 1956",
 					"college": "Alexandria College2",
@@ -76,7 +77,7 @@
 					"bio": "Coached Vevay, Fayetteville and Shawswick High SchoolsA 2-year starter for Bedford High School team leader, as well as class president in 1936 3-year letter winner at Purdue Boiler- makers won 2 Big 10 titles in '38 and '40 captained '40 team as a senior All-American played against Harlem Globetrotters in the Chicago Herald-American's all-star contest, viewed by 22,000 fans in Chicago Stadium played professionally with Firestone before entering service in '41."
 				},
 				{
-					"id": 11,
+					"id": 22,
 					"name": "Jean Ann Bowers 3",
 					"high_school": "Alexandria3 1956",
 					"college": "Alexandria College3",
@@ -84,7 +85,7 @@
 					"bio": "Coached Vevay, Fayetteville and Shawswick High SchoolsA 2-year starter for Bedford High School team leader, as well as class president in 1936 3-year letter winner at Purdue Boiler- makers won 2 Big 10 titles in '38 and '40 captained '40 team as a senior All-American played against Harlem Globetrotters in the Chicago Herald-American's all-star contest, viewed by 22,000 fans in Chicago Stadium played professionally with Firestone before entering service in '41."
 				},
 				{
-					"id": 11,
+					"id": 23,
 					"name": "Jean Ann Bowers 4",
 					"high_school": "Alexandria2 1956",
 					"college": "Alexandria College",
@@ -113,11 +114,11 @@
 				}
 			]
 		},
-		{
-			"id": 1,
+		"Indianapolis": {
+			"id": 3,
 			"name": "Indianapolis",
 			"people": [{
-					"id": 11,
+					"id": 31,
 					"name": "Jean Ann Bowers 1",
 					"high_school": "Alexandria 1956",
 					"college": "Alexandria College",
@@ -125,7 +126,7 @@
 					"bio": "Coached Vevay, Fayetteville and Shawswick High SchoolsA 2-year starter for Bedford High School team leader, as well as class president in 1936 3-year letter winner at Purdue Boiler- makers won 2 Big 10 titles in '38 and '40 captained '40 team as a senior All-American played against Harlem Globetrotters in the Chicago Herald-American's all-star contest, viewed by 22,000 fans in Chicago Stadium played professionally with Firestone before entering service in '41."
 				},
 				{
-					"id": 11,
+					"id": 32,
 					"name": "Jean Ann Bowers 2",
 					"high_school": "Alexandria 1956",
 					"college": "Alexandria College2",
@@ -133,7 +134,7 @@
 					"bio": "Coached Vevay, Fayetteville and Shawswick High SchoolsA 2-year starter for Bedford High School team leader, as well as class president in 1936 3-year letter winner at Purdue Boiler- makers won 2 Big 10 titles in '38 and '40 captained '40 team as a senior All-American played against Harlem Globetrotters in the Chicago Herald-American's all-star contest, viewed by 22,000 fans in Chicago Stadium played professionally with Firestone before entering service in '41."
 				},
 				{
-					"id": 11,
+					"id": 33,
 					"name": "Jean Ann Bowers 3",
 					"high_school": "Alexandria3 1956",
 					"college": "Alexandria College3",
@@ -141,7 +142,7 @@
 					"bio": "Coached Vevay, Fayetteville and Shawswick High SchoolsA 2-year starter for Bedford High School team leader, as well as class president in 1936 3-year letter winner at Purdue Boiler- makers won 2 Big 10 titles in '38 and '40 captained '40 team as a senior All-American played against Harlem Globetrotters in the Chicago Herald-American's all-star contest, viewed by 22,000 fans in Chicago Stadium played professionally with Firestone before entering service in '41."
 				},
 				{
-					"id": 11,
+					"id": 34,
 					"name": "Jean Ann Bowers 4",
 					"high_school": "Alexandria2 1956",
 					"college": "Alexandria College",
@@ -170,5 +171,5 @@
 				}
 			]
 		}
-	]
+	}
 }
